@@ -8,3 +8,5 @@
 ### Purpose of this repository:
 1. To learn more about digital technologies.
 2. Create a portfolio to store all my work.
+
+[Tap here to view my LinkedIn profile](https://www.linkedin.com/in/seifeldin-farah/)
